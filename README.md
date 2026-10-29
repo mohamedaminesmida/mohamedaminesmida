@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mohamed%20Amine%20Smida&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=IT%20Student%20%7C%20Rust%20Plugins%20-%20Maps%20Designer%20%7C%20Web%20Development&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=If%20it%20works%2C%20don't%20touch%20it." alt="Typing introduction" />
 </p>
@@ -69,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=If%20it%20works%2C%20don't%20touch%20it." alt="Typing introduction" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 
