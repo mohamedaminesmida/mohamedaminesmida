@@ -8,11 +8,15 @@
   </a>
 </p>
 
+---
+
 ## 📌 About Me
 - 🌱 **IT student at ISET specializing in web systems and software development**
 - 🛠️ **Developing custom C# plugins, systems & custom maps for Rust servers**
 - 🛒 **Building full-stack web platforms and e-commerce architectures**
 - 🤝 **Looking to collaborate on web projects**
+
+---
 
 ## 🧠 My Focus Areas
 - **Full-Stack Web:** Modern web platforms, digital storefronts & REST APIs
@@ -21,24 +25,42 @@
 - **Decentralized Tech:** Blockchain integration & IPFS storage workflows
 - **IT Student:** Computer science, software engineering & networking at ISET
 
-### 🛠️ Languages & Tools
+---
 
-<p align="center">
-  <b>Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=js,py,c,cs,php" /><br><br>
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br><br>
-  <b>Backend & Database</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /><br><br>
-  <b>Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-</p>
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+#### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,py,c,cs,php" alt="Languages" />
+
+<br>
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+
+<br>
+
+#### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend & Database" />
+
+</div>
+
+---
 
 ## 📬 Contact
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-amine-smida-827658423"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mohamed Amine Smida's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:mohamedaminesmida@outlook.com"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Mohamed Amine Smida's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/21624105159"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-smida-827658423">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mohamedaminesmida@outlook.com">
+    <img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/21624105159">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 <p align="center">
