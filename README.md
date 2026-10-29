@@ -13,17 +13,18 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 I'm currently learning IT & Web Development
-- 🛠️ I create custom Rust plugins, prefabs & maps
-- 🛒 Building practical e-commerce & web projects
+- 🌱 IT student at ISET specializing in web systems and software development
+- 🛠️ Developing custom C# plugins, systems & custom maps for Rust servers
+- 🛒 Building full-stack web platforms and e-commerce architectures
 - 🤝 Looking to collaborate on web projects
 
 
 ## 🧠 My Focus Areas
-- Web Applications
-- Rust Plugins Dev & Map Design
-- Blockchain & IPFS (Exploring & Learning)
-- IT Student (ISET)
+- **Full-Stack Web:** Modern web platforms, digital storefronts & REST APIs
+- **Rust Game Development:** Custom C# plugins, custom map design & server management
+- **Industrial IoT & Telemetry:** Smart sensor nodes, machine health monitoring & microcontrollers (ESP32 / C)
+- **Decentralized Tech:** Blockchain integration & IPFS storage workflows
+- **IT Student:** Computer science, software engineering & networking at ISET
 
 
 ## 📊 GitHub Stats & Trophies
